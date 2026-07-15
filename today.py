@@ -21,10 +21,8 @@ def daily_readme(birthday):
     e.g. 'XX years, XX months, XX days'
     """
     diff = relativedelta.relativedelta(datetime.datetime.today(), birthday)
-    return '{} {}, {} {}, {} {}{}'.format(
-        diff.years, 'year' + format_plural(diff.years), 
-        diff.months, 'month' + format_plural(diff.months), 
-        diff.days, 'day' + format_plural(diff.days),
+    return '{:02} years, {:02} months, {:02} days{}'.format(
+        diff.years, diff.months, diff.days,
         ' 🎂' if (diff.months == 0 and diff.days == 0) else '')
 
 
@@ -319,7 +317,7 @@ def stars_counter(data):
 def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib_data, follower_data, loc_data):
     tree = etree.parse(filename)
     root = tree.getroot()
-    justify_format(root, 'age_data', age_data)
+    justify_format(root, 'age_data', age_data, 28)
     justify_format(root, 'commit_data', commit_data, 22)
     justify_format(root, 'star_data', star_data, 14)
     justify_format(root, 'repo_data', repo_data, 6)
