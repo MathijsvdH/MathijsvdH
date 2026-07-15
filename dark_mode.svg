@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1200px" height="440px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1100px" height="440px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1200px" height="440px" fill="#161b22" rx="15"/>
+<rect width="1100px" height="440px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">.      ...     '            .     *  </tspan>
 <tspan x="15" y="50"> '     ':.       *   '.    .        '</tspan>
@@ -38,23 +38,23 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="390">                     \o/\ /---~\\ ~}}</tspan>
 <tspan x="15" y="410">                       _//    _// ~} </tspan>
 </text>
-<text x="600" y="30" fill="#c9d1d9">
-<tspan x="600" y="30">Mathijs van den Heiligenberg</tspan> -———————————————————————————-—-
+<text x="500" y="30" fill="#c9d1d9">
+<tspan x="500" y="30">Mathijs van den Heiligenberg</tspan> -———————————————————————————-—-
 
-<tspan x="600" y="60" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">19 years, 09 months, 29 days</tspan>
-<tspan x="600" y="80" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Fontys University of Applied Sciences</tspan>
-<tspan x="600" y="100" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">Student</tspan>
-<tspan x="600" y="120" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">VSCode 1.128.0</tspan>
+<tspan x="500" y="60" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">19 years, 09 months, 29 days</tspan>
+<tspan x="500" y="80" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Fontys University of Applied Sciences</tspan>
+<tspan x="500" y="100" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">Student</tspan>
+<tspan x="500" y="120" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">VSCode 1.128.0</tspan>
 
-<tspan x="600" y="160">- Languages</tspan> -———————————————————————————————————————————-—-
-<tspan x="600" y="180" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Python, JavaScript, C#</tspan>
-<tspan x="600" y="200" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
-<tspan x="600" y="220" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Dutch, English, Norwegian</tspan>
+<tspan x="500" y="160">- Languages</tspan> -———————————————————————————————————————————-—-
+<tspan x="500" y="180" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Python, JavaScript, C#</tspan>
+<tspan x="500" y="200" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
+<tspan x="500" y="220" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Dutch, English, Norwegian</tspan>
 
-<tspan x="600" y="260">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="600" y="280" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">mathijs@vandenheiligenberg.nl</tspan>
-<tspan x="600" y="300" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Student</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">m.vandenheiligenberg@student.fontys.nl</tspan>
-<tspan x="600" y="320" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................... </tspan><a href="https://www.linkedin.com/in/mathijsvdheiligenberg/" target="_blank"><tspan class="value">Mathijs van den Heiligenberg</tspan></a>
+<tspan x="500" y="260">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="500" y="280" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">mathijs@vandenheiligenberg.nl</tspan>
+<tspan x="500" y="300" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Student</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">m.vandenheiligenberg@student.fontys.nl</tspan>
+<tspan x="500" y="320" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................... </tspan><a href="https://www.linkedin.com/in/mathijsvdheiligenberg/" target="_blank"><tspan class="value">Mathijs van den Heiligenberg</tspan></a>
 
 <tspan x="600" y="360">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
 <tspan x="600" y="380" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">10</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">11</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> .............. </tspan><tspan class="value" id="star_data">0</tspan>
