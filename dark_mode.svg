@@ -17,27 +17,27 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="1100px" height="440px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">.      ...     '            .     *              </tspan>
-<tspan x="15" y="50"> '     ':.       *   '.    .        '            </tspan>
-<tspan x="15" y="70"> '   |   '::._       +o    |    +                </tspan>
-<tspan x="15" y="90">    -o-    '._) +        --o--  .                </tspan>
-<tspan x="15" y="110">'  ' |_ +'    _      ..    |/'\    _             </tspan>
-<tspan x="15" y="130"> \   / \  _  / |  _       _/   \  /              </tspan>
-<tspan x="15" y="150">  \ /   \/ \/   \/  \    |      \/               </tspan>
-<tspan x="15" y="170">   /        \___/     \ /                        </tspan>
-<tspan x="15" y="190">  /             \    __/                         </tspan>
-<tspan x="15" y="210"> /    ___________\_/____________                 </tspan>
-<tspan x="15" y="230"> ____/                          \____            </tspan>
-<tspan x="15" y="250">     ______    .     .                           </tspan>
-<tspan x="15" y="270">    /     /\                 .                   </tspan>
-<tspan x="15" y="290">   /     /  \                                    </tspan>
-<tspan x="15" y="310">  /_____/----\_                                  </tspan>
-<tspan x="15" y="330"> "     "                   .                     </tspan>
-<tspan x="15" y="350">                                |\_/|,,_____,~~` </tspan>
-<tspan x="15" y="370">                                (.".)~~     )`~}}</tspan>
-<tspan x="15" y="390">                                 \o/\ /---~\\ ~}}</tspan>
-<tspan x="15" y="410">                                   _//    _// ~} </tspan>
-</text>
+<tspan x="15" y="30">.      ...     '            .     *          .        </tspan>
+<tspan x="15" y="50"> '     ':.       *   '.    .        '       |    .-.  </tspan>
+<tspan x="15" y="70"> '   |   '::._       +o   |     +         --o--   ) ) </tspan>
+<tspan x="15" y="90">    -o-    '._) +       --o--_  .    *   /\ |    '-´  </tspan>
+<tspan x="15" y="110">'  ' |_ +'    _      ..   | / \    ___/\/  \_         </tspan>
+<tspan x="15" y="130"> \   / \  _  / |  __      _/   \  /    /     \   _    </tspan>
+<tspan x="15" y="150">  \ /   \/ \/   \/  \    |      \/    /       \_/ \   </tspan>
+<tspan x="15" y="170">   /        \___/     \ /            /       @     \  </tspan>
+<tspan x="15" y="190">  /             \    __/  ______    /       @@@     \ </tspan>
+<tspan x="15" y="210"> /    ___________\_/___  /\     \  /       @@@@@      </tspan>
+<tspan x="15" y="230"> ____/                  /  \     \  _______ @@@@@     </tspan>
+<tspan x="15" y="250">     ______           _/----\_____\        \_||_______</tspan>
+<tspan x="15" y="270">    /     /\                 "  "            ||       </tspan>
+<tspan x="15" y="290">   /     /  \                 ︵             ||       </tspan>
+<tspan x="15" y="310">  /_____/----\_         (     \\\                    </tspan>
+<tspan x="15" y="330"> "     "               )       \\\                    </tspan>
+<tspan x="15" y="350">           ︵       o (:') o    \@)  |\_/|,,_____,~~` </tspan>
+<tspan x="15" y="370">           \\\     o ~/~~\~ o        (.".)~~     )`~}}</tspan>
+<tspan x="15" y="390">            \\\     o  o  o           \o/\ /---~\\ ~}}</tspan>
+<tspan x="15" y="410">             \@)                        _//    _// ~} </tspan>
+</text>  
 <text x="550" y="30" fill="#c9d1d9">
 <tspan x="550" y="30">Mathijs van den Heiligenberg</tspan> -———————————————————————-—-
 
